@@ -1,0 +1,14 @@
+1. CÓDIGO DE DESBLOQUEO: 
+   GH-OLIMPO-DATA-2026-KEY
+
+2. PRIMERA ANOMALÍA DETECTADA EN LOS DATOS:
+   Revisando la carpeta `data/reservas_raw.csv`, hemos descubierto que el atacante 
+   introdujo 10 FILAS TOTALMENTE DUPLICADAS e intencionadamente dejó celdas 
+   vacías (NaN) en precios y noches.
+
+3. INSTRUCCIÓN PARA EL SIGUIENTE SPRINT (PUERTA 2 - EL ESCUDO):
+   No basta con tener esta llave en tu ordenador. Debemos asegurar el estado 
+   de nuestra investigación en el control de versiones.
+   
+   Proceded a realizar vuestro primer `git commit` y publicad el repositorio 
+   en GitHub utilizando el archivo README.md.

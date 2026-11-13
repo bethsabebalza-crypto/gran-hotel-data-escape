@@ -5,7 +5,7 @@ Esta guía proporciona la **sintaxis exacta y los comandos explícitos** para su
 ---
 
 ## 🚪 Puerta 1: La Brújula (Git Bash / Terminal)
-**Objetivo:** Explorar el servidor y localizar la contraseña oculta `.llave_maestra.txt`.
+**Objetivo:** Explorar el servidor y localizar la contraseña oculta ls-la.
 
  **Verificar directorio actual:**
    ```bash

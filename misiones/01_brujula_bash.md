@@ -27,4 +27,6 @@ Como equipo de analistas de datos, vuestra primera tarea en este sprint es utili
 1. **Abrir Git Bash:** Abre la terminal Git Bash en tu equipo.
 2. **Identificar tu ubicación actual:** Ejecuta el comando para imprimir el directorio de trabajo actual:
    ```bash
-   pwd
+pwd
+mkdir ~/proyectos
+https://github.com/superco-art/gran-hotel-data-escape.git
