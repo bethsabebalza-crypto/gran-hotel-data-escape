@@ -1,25 +1,28 @@
 # 📝 Bitácora de Investigación - Gran Hotel Olimpo
-**Equipo Auditor:** [Nombre Piloto] & [Nombre Copiloto]  
-**Fecha:** [DD/MM/AAAA]
+**Equipo Auditor:** [Tania] & [Bethsabé]  
+**Fecha:** [13/11/2026]
 
 ---
 
 ## 1. 🔑 Hallazgo Inicial (Puerta 1 - Git Bash)
-* **Comando utilizado para encontrar la credencial oculta:** `...`
-* **Código de la Llave Maestra:** `...`
-* **Primera anomalía detectada en el servidor:** 
+* **Comando utilizado para encontrar la credencial oculta:** `cat`
+* **Código de la Llave Maestra:** `GH-OLIMPO-DATA-2026-KEY`
+* **Primera anomalía detectada en el servidor:*hemos descubierto que el atacante 
+   introdujo 10 FILAS TOTALMENTE DUPLICADAS e intencionadamente dejó celdas 
+   vacías (NaN) en precios y noches* 
 
 ---
 
 ## 2. 🛡️ Registro de Control de Versiones (Puerta 2 - Git & GitHub)
-* **Comando para preparar archivos (Staging):** `...`
-* **Mensaje del primer commit local:** `...`
+* **Comando para preparar archivos (Staging):** `git status`
+* **Mensaje del primer commit local:** `...
+git`
 * **URL del repositorio público en GitHub:** `https://github.com/...`
 
 ---
 
 ## 3. 🗺️ Arquitectura y Entorno (Puerta 4 - VS Code & Dependencies)
-* **Versión de Python detectada:** `...`
+* **Versión de Python detectada:** `3.15.2`
 * **Comando utilizado para instalar `requirements.txt`:** `...`
 * **Diferencia entre Ruta Absoluta y Ruta Relativa (explicación breve):** 
 
